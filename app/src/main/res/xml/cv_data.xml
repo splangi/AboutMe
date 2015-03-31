@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <row>
+        <title>Name</title>
+        <text>Siim Plangi</text>
+    </row>
+    <row>
+        <title>Birth Place</title>
+        <text>Võru</text>
+    </row>
+    <row>
+        <title>Address</title>
+        <text>Tartu, Raatuse 18</text>
+    </row>
+    <row>
+        <title>Telephone</title>
+        <text>+3725266127</text>
+    </row>
+    <row>
+        <title>E-mail</title>
+        <text>siimplangi@gmail.com</text>
+    </row>
+    <row>
+        <title>Education</title>
+    </row>
+    <row>
+        <subtitle>2014-...</subtitle>
+        <text>University of Tartu - MSC of Informatics</text>
+    </row>
+    <row>
+        <subtitle>2011-2014</subtitle>
+        <text>University of Tartu - BSC of Infotechnology</text>
+    </row>
+    <row>
+        <subtitle>2008-2011</subtitle>
+        <text>Võru Kreutzwald’s Gymnasium</text>
+    </row>
+    <row>
+        <title>Projects</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Rally Tripmeter app for Android</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Python's automatic homework evaluator (BSc thesis)</text>
+    </row>
+    <row>
+        <title>Current projects</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Gourmet - Restaurant menu translator</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Helping a furniture production company</text>
+    </row>
+    <row>
+        <title>Languages</title>
+    </row>
+    <row>
+        <subtitle>Native</subtitle>
+        <text>Estonian</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>English - C1</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Russian - A1</text>
+    </row>
+    <row>
+        <title>Programming languages</title>
+    </row>
+    <row>
+        <subtitle>Python</subtitle>
+        <text>My first experience with programming. Since the start of BSc</text>
+    </row>
+    <row>
+        <subtitle>Java</subtitle>
+        <text>My favorite programming language. Since the second semester of BSc</text>
+    </row>
+    <row>
+        <subtitle>Android</subtitle>
+        <text>My favorite application development framework</text>
+    </row>
+    <row>
+        <subtitle>Web technologies</subtitle>
+        <text>Some projects done </text>
+    </row>
+    <row>
+        <title>Additional information</title>
+    </row>
+    <row>
+        <subtitle>2015</subtitle>
+        <text>Leader of Estonian rally championship (Overall, Group N4)</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Leader of Latvian Rally championship (Overall, Class N4)</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Winner of class at European Rally Championship event Rally Liepaja (2nd overall)</text>
+    </row>
+    <row>
+        <title>Activities</title>
+        <text>Poker</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Driving with anything that has an engine</text>
+    </row>
+    <row>
+        <title>Websites</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="https://bitbucket.org/splangi/rallytripmeter/">Rally Tripmeter repository</a>]]></hyperlink>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="http://m.facebook.com/Plangi.Sarapuu">My rally webpage</a>]]></hyperlink>
+    </row>
+
+</data>
