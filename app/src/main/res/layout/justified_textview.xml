@@ -1,0 +1,14 @@
+
+<com.bluejamesbond.text.DocumentView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ext="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_weight="5"
+    ext:documentView_hyphen="-"
+    ext:documentView_antialias="true"
+    ext:documentView_cacheConfig="auto_quality"
+    ext:documentView_textAlignment="justified"
+    ext:documentView_textSize="@dimen/defaultTextSize"
+    >
+</com.bluejamesbond.text.DocumentView>

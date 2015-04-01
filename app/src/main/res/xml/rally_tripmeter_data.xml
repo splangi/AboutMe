@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <row>
+        <largetitle>
+            Purpose
+        </largetitle>
+
+    </row>
+    <row>
+        <justified>
+            Rally Tripmeter is an application specially designed to help rally driving and the
+            activities associated with it.
+        </justified>
+
+    </row>
+    <row>
+        <largetitle>
+            Impact
+        </largetitle>
+
+    </row>
+    <row>
+        <justified>
+            It has currently over 4 thousand total downloads and 2,4 thousand current installs.
+            For a small community of rally (co)drivers this is quite big usage.
+            The rating of the application is over the 4.5 mark. All the feedback I have got is been
+            very positive, there are known users from the top drivers in Estonia (Including Raigo
+            Mölder, the codriver of Ott Tänak) and even users from FIA (The federation of
+            international autosport).
+        </justified>
+
+    </row>
+    <row>
+        <largetitle>
+            Mayor rework
+        </largetitle>
+
+    </row>
+    <row>
+        <justified>
+            The application was almost rebuild about six months ago. The functionality changed were
+            small, but the code was refactored totally. The purpose of the rework was, that the
+            initial project structure was sloppy and it was hard to maintain.
+        </justified>
+
+
+    </row>
+    <row>
+        <image>tripmeter</image>
+    </row>
+    <row>
+        <largetitle>
+            Project repository
+        </largetitle>
+
+    </row>
+    <row>
+        <hyperlink>
+            <![CDATA[<a href="https://bitbucket.org/splangi/rallytripmeter/">Bitbucket repository</a>]]>
+        </hyperlink>
+
+    </row>
+
+    <row>
+        <largetitle>
+            Google Play
+        </largetitle>
+
+    </row>
+    <row>
+        <hyperlink>
+            <![CDATA[<a href="https://play.google.com/store/apps/details?id=ee.siimplangi.rallytripmeter">Google play link</a>]]>
+        </hyperlink>
+
+    </row>
+
+
+</data>

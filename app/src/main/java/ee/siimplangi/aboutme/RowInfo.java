@@ -17,35 +17,7 @@ public class RowInfo {
     public List<Info> getRowInformationList() {
         return rowInformationList;
     }
-    /*
-    String title;
-    String subtitle;
-    String text;
 
-    public String getSubtitle() {
-        return subtitle;
-    }
-
-    public void setSubtitle(String subtitle) {
-        this.subtitle = subtitle;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public void setText(String text) {
-        this.text = text;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public String getText() {
-        return text;
-    }
-    */
 }
 
 class Info {
@@ -55,6 +27,8 @@ class Info {
     Info(String info, InfoType type) {
         this.info = info;
         infoType = type;
+        this.info = this.info.replaceAll("\\s+", " ");
+        this.info = this.info.replaceAll("^\\s+|\\s+$", "");
     }
 
     public String getInfo() {
@@ -67,6 +41,6 @@ class Info {
 }
 
 enum InfoType{
-    TITLE,SUBTITLE,TEXT,HYPERLINK,IMAGE
+    TITLE,SUBTITLE,TEXT,HYPERLINK,IMAGE,JUSTIFIED,LARGE_TITLE
 }
 

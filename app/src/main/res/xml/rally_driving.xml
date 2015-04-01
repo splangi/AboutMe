@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+    <row>
+
+        <largetitle>
+
+            Me as a driver
+
+        </largetitle>
+
+    </row>
+
+    <row>
+
+        <justified>
+
+            In addition of being a programmer, I am a professional rally driver and not a bad one
+            either. My most recent achievement was finishing second overall at European Rally
+            Championship event Rally Liepaja. If at first it might seem that rally driving isn’t
+            something that might help my career in IT, then I believe that the experience being in
+            though and unfamiliar environments is something that will help me in IT as well.
+            Furthermore, a big part of rally driving is teamwork, which is something that is crucial
+            in IT. I’m sure that the success in rallying is something that will reflect my future as
+            a programmer.
+
+        </justified>
+
+    </row>
+
+    <row>
+
+        <image>drift</image>
+
+    </row>
+
+    <row>
+
+        <largetitle>Fanpage</largetitle>
+
+    </row>
+
+    <row>
+
+        <hyperlink>
+            <![CDATA[<a href="http://m.facebook.com/Plangi.Sarapuu">Fanpage link</a>]]>
+        </hyperlink>
+
+    </row>
+
+    <row>
+
+        <largetitle>Some articles</largetitle>
+
+    </row>
+
+    <row>
+
+        <hyperlink>
+            <![CDATA[<a href="http://sport.postimees.ee/3083825/suureparast-kiirust-naidanud-siim-plangi-lopetas-erc-ralli-teise-kohaga">Suurepärast kiirust näidanud Siim Plangi lõpetas ERC-ralli teise kohaga</a>]]>
+        </hyperlink>
+
+    </row>
+
+    <row>
+
+        <hyperlink>
+            <![CDATA[<a href="http://rallyestonia.com/et/siim-plangi-stardib-auto24-rally-estonial-peugeot-sport-meeskonna-peugeot-208-r5-autoga/">Siim Plangi stardib auto24 Rally Estonial Peugeot Sport meeskonna Peugeot 208 R5 autoga</a>]]>
+        </hyperlink>
+
+    </row>
+
+
+</data>

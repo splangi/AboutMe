@@ -89,7 +89,15 @@
     </row>
     <row>
         <subtitle>Web technologies</subtitle>
-        <text>Some projects done </text>
+        <text>I have used various technologies/tools including, Java Servlets, js, jquery, angular,
+            bootstrap etc
+        </text>
+    </row>
+    <row>
+        <subtitle>Databases</subtitle>
+        <text>I have mostly used MySql for my development, but I have also some experience with
+            oracle and hibernate
+        </text>
     </row>
     <row>
         <title>Additional information</title>
@@ -104,7 +112,8 @@
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Winner of class at European Rally Championship event Rally Liepaja (2nd overall)</text>
+        <text>Winner of class at European Rally Championship event Rally Liepaja (2nd overall)
+        </text>
     </row>
     <row>
         <title>Activities</title>
@@ -119,11 +128,22 @@
     </row>
     <row>
         <subtitle></subtitle>
-        <hyperlink><![CDATA[<a href="https://bitbucket.org/splangi/rallytripmeter/">Rally Tripmeter repository</a>]]></hyperlink>
+        <hyperlink>
+            <![CDATA[<a href="https://bitbucket.org/splangi/rallytripmeter/">Rally Tripmeter repository</a>]]></hyperlink>
     </row>
     <row>
         <subtitle></subtitle>
-        <hyperlink><![CDATA[<a href="http://m.facebook.com/Plangi.Sarapuu">My rally webpage</a>]]></hyperlink>
+        <hyperlink>
+            <![CDATA[<a href="http://m.facebook.com/Plangi.Sarapuu">My rally webpage</a>]]></hyperlink>
     </row>
-
+    <row>
+        <subtitle></subtitle>
+        <hyperlink>
+            <![CDATA[<a href="https://github.com/splangi/AboutMe">This project's repository</a>]]></hyperlink>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink>
+            <![CDATA[<a href="https://github.com/splangi/Gourmet">Gourmet repository</a>]]></hyperlink>
+    </row>
 </data>

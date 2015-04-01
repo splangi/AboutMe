@@ -18,6 +18,8 @@ public class XMLParser {
     private static final String SUBTITLE_TAG = "subtitle";
     private static final String TEXT_TAG = "text";
     private static final String IMAGE_TAG = "image";
+    private static final String JUSTIFIED_TAG = "justified";
+    private static final String LARGE_TITLE_TAG = "largetitle";
 
     public static List<RowInfo> parseXML(XmlPullParser parser) throws IOException, XmlPullParserException {
           List<RowInfo> rows = new ArrayList<>();
@@ -50,16 +52,25 @@ public class XMLParser {
 
             switch (name) {
                 case TITLE_TAG:
-                    row.addInfo(new Info(readTitle(parser), InfoType.TITLE));
+                    row.addInfo(new Info(read(parser, TITLE_TAG), InfoType.TITLE));
                     break;
                 case TEXT_TAG:
-                    row.addInfo(new Info(readText(parser), InfoType.TEXT));
+                    row.addInfo(new Info(read(parser, TEXT_TAG), InfoType.TEXT));
                     break;
                 case SUBTITLE_TAG:
-                    row.addInfo(new Info(readSubTitle(parser), InfoType.SUBTITLE));
+                    row.addInfo(new Info(read(parser, SUBTITLE_TAG), InfoType.SUBTITLE));
                     break;
                 case HYPERLINK_TAG:
-                    row.addInfo(new Info(readHyperlink(parser), InfoType.HYPERLINK));
+                    row.addInfo(new Info(read(parser, HYPERLINK_TAG), InfoType.HYPERLINK));
+                    break;
+                case JUSTIFIED_TAG:
+                    row.addInfo(new Info(read(parser, JUSTIFIED_TAG), InfoType.JUSTIFIED));
+                    break;
+                case LARGE_TITLE_TAG:
+                    row.addInfo(new Info(read(parser, LARGE_TITLE_TAG), InfoType.LARGE_TITLE));
+                    break;
+                case IMAGE_TAG:
+                    row.addInfo(new Info(read(parser, IMAGE_TAG), InfoType.IMAGE));
                     break;
                 default:
                     skip(parser);
@@ -69,40 +80,14 @@ public class XMLParser {
         return row;
     }
 
-    private static String readTitle(XmlPullParser parser) throws IOException, XmlPullParserException{
-        parser.require(XmlPullParser.START_TAG, ns, TITLE_TAG);
-        String title = read(parser);
-        parser.require(XmlPullParser.END_TAG, ns, TITLE_TAG);
-        return title;
-    }
-
-    private static String readSubTitle(XmlPullParser parser) throws IOException, XmlPullParserException{
-        parser.require(XmlPullParser.START_TAG, ns, SUBTITLE_TAG);
-        String title = read(parser);
-        parser.require(XmlPullParser.END_TAG, ns, SUBTITLE_TAG);
-        return title;
-    }
-
-    private static String readText(XmlPullParser parser) throws IOException, XmlPullParserException{
-        parser.require(XmlPullParser.START_TAG, ns, TEXT_TAG);
-        String text = read(parser);
-        parser.require(XmlPullParser.END_TAG, ns, TEXT_TAG);
-        return text;
-    }
-
-    private static String readHyperlink(XmlPullParser parser) throws IOException, XmlPullParserException{
-        parser.require(XmlPullParser.START_TAG, ns, HYPERLINK_TAG);
-        String text = read(parser);
-        parser.require(XmlPullParser.END_TAG, ns, HYPERLINK_TAG);
-        return text;
-    }
-
-    private static String read(XmlPullParser parser) throws IOException, XmlPullParserException {
+    private static String read(XmlPullParser parser, String requiredTag) throws IOException, XmlPullParserException {
+        parser.require(XmlPullParser.START_TAG, ns, requiredTag);
         String result = "";
         if (parser.next() == XmlPullParser.TEXT) {
             result = parser.getText();
             parser.nextTag();
         }
+        parser.require(XmlPullParser.END_TAG, ns, requiredTag);
         return result;
     }
 

@@ -15,30 +15,22 @@
   -->
 
 <resources>
-    <string name="app_name">About Siim Plangi</string>
-    <string name="cv_fragment_title">CV</string>
+    <string name="app_name">About Me</string>
+
+
     <string name="nameRowTitle">Name</string>
     <string name="nameRowText">Siim Plangi</string>
     <string-array name="topics">
+        <item>This app</item>
         <item>CV</item>
-        <item>Hobby</item>
-        <item>IT achievements</item>
-        <item>Links</item>
+        <item>Developer</item>
+        <item>Rally driving</item>
+        <item>Rally Tripmeter</item>
+
     </string-array>
 
-    <string-array name="planets_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
-    </string-array>
 
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
-    <string name="action_websearch">Web search</string>
-    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
 </resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <row>
+        <title>Nimi</title>
+        <text>Siim Plangi</text>
+    </row>
+    <row>
+        <title>Sünnikoht</title>
+        <text>Võru</text>
+    </row>
+    <row>
+        <title>Aadress</title>
+        <text>Tartu, Raatuse 18</text>
+    </row>
+    <row>
+        <title>Telefoni nr</title>
+        <text>+3725266127</text>
+    </row>
+    <row>
+        <title>E-mail</title>
+        <text>siimplangi@gmail.com</text>
+    </row>
+    <row>
+        <title>Haridus</title>
+    </row>
+    <row>
+        <subtitle>2014-...</subtitle>
+        <text>Tartu Ülikool - Informaatika magistratuur</text>
+    </row>
+    <row>
+        <subtitle>2011-2014</subtitle>
+        <text>Tartu Ülikool - Infotehnoloogia bakalaureus</text>
+    </row>
+    <row>
+        <subtitle>2008-2011</subtitle>
+        <text>Võru Kreutzwaldi Gümnaasium</text>
+    </row>
+    <row>
+        <title>Projektid</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Rally Tripmeter rakendus Androidile</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Pythoni automaatne kodutööde hindaja (lõputöö)</text>
+    </row>
+    <row>
+        <title>Hetke projektid</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Gourmet - Restorani menüüde translaator</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Aitan mööbilitootmis firma tarkvaraarendust</text>
+    </row>
+    <row>
+        <title>Keeleoskus</title>
+    </row>
+    <row>
+        <subtitle>emakeel</subtitle>
+        <text>Eesti</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Inglise - C1</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Vene - A1</text>
+    </row>
+    <row>
+        <title>Programmeerimiskeeled</title>
+    </row>
+    <row>
+        <subtitle>Java</subtitle>
+        <text>Lemmik programmeerimiskeel. Alates teisest semestrist bakalaureuseõppes</text>
+    </row>
+    <row>
+        <subtitle>Python</subtitle>
+        <text>Esimene kokkupuude programmeerimisega. Bakalaureuseõppe algusest</text>
+    </row>
+
+    <row>
+        <subtitle>Android</subtitle>
+        <text>Lemmik programeerimise raamistik</text>
+    </row>
+    <row>
+        <subtitle>Veeb</subtitle>
+        <text>Olen kasutanud mitmed tehnoloogiaid, Java Servlets, js, jquery, angular, bootstrap jm</text>
+    </row>
+    <row>
+        <subtitle>SQL</subtitle>
+        <text>Enamuseks arenduseks kasutanud MySQL-i. Olen kasutanud ka hql-i. </text>
+    </row>
+    <row>
+        <title>Täiendav info</title>
+    </row>
+    <row>
+        <subtitle>2015</subtitle>
+        <text>Liider Eesti ralli meistrivõistlustel (Overall, Group N4)</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Liider Läti ralli meistrivõistlustel (Overall, Class N4)</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Euroopa ralli meistrivõistluste Rally Liepaja klassivõitja (2. ülearvestuses)</text>
+    </row>
+    <row>
+        <title>Harrastused</title>
+        <text>Pokker</text>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <text>Sõitmine kõigega, millel on mootor</text>
+    </row>
+    <row>
+        <title>Veebisaidid</title>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="https://bitbucket.org/splangi/rallytripmeter/">Rally Tripmeter repositoorium</a>]]></hyperlink>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="http://m.facebook.com/Plangi.Sarapuu">Minu ralli fännileht</a>]]></hyperlink>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="https://github.com/splangi/AboutMe">Selle projekti repositoorium</a>]]></hyperlink>
+    </row>
+    <row>
+        <subtitle></subtitle>
+        <hyperlink><![CDATA[<a href="https://github.com/splangi/Gourmet">Gourmet repositoorium</a>]]></hyperlink>
+    </row>
+</data>

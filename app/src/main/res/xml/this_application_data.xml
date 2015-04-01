@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <row>
+        <largetitle>Purpose</largetitle>
+    </row>
+    <row>
+        <justified>The purpose of this application is to create a introduction package of me in the
+            context of Android.
+            This application includes my CV, introduction of me as a developer,
+            a page about my hobby and some details of android apps I have created.
+        </justified>
+    </row>
+    <row>
+        <largetitle>
+            Navigation
+        </largetitle>
+    </row>
+    <row>
+        <justified>The application provides navigation between different pages using the application
+            drawer on the right.
+        </justified>
+    </row>
+    <row>
+        <largetitle>
+            Data loading
+        </largetitle>
+    </row>
+    <row>
+        <justified>All the data is dynamically loaded from custom XML data files during runtime. The
+            XML includes row tags and inside it there are various other tags (aka title, largetext).
+            All data within different tags are handled differently in appropriate views with
+            different properties.
+        </justified>
+    </row>
+    <row>
+        <justified>This application would have been much more effective and had many more options
+            using webviews and HTML/CSS, but the aim was to create a pure android implementation
+            introduction package.
+        </justified>
+    </row>
+    <row>
+        <largetitle>
+            Language support
+        </largetitle>
+    </row>
+    <row>
+        <justified>As the application uses XML files which are stored in the resource folder,
+            application translation is easy.
+            All is necessary to do is translate the text within the xml text file and the
+            appropriate file is loaded by android.
+            For that purpose the CV page has also been translated to Estonian, which will be
+            displayed on devices with Estonian language as the system language.
+        </justified>
+    </row>
+    <row>
+        <largetitle>
+            3rd party libraries
+        </largetitle>
+    </row>
+    <row>
+        <justified>
+            I used a library “TextJustify-Android” for creating full line textviews that have a
+            justified look.
+        </justified>
+    </row>
+    <row>
+        <hyperlink>
+            <![CDATA[<a href="https://github.com/bluejamesbond/TextJustify-Android">TextJustify-Android repository</a>]]>
+        </hyperlink>
+    </row>
+    <row>
+        <largetitle>
+            This applications repository
+        </largetitle>
+    </row>
+    <row>
+        <hyperlink>
+            <![CDATA[<a href="https://github.com/splangi/AboutMe">This project's repository</a>]]></hyperlink>
+    </row>
+</data>

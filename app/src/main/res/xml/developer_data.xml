@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <row>
+        <largetitle>Me as a developer</largetitle>
+    </row>
+    <row>
+
+        <justified>
+            I’m a programmer who got his first programming experience from the university. From then
+            on I have come a long way and now I have done many projects, where I have almost always
+            been the project leader. I always find solutions to my problems and I try to be as
+            effective as possible. In the future I see myself as a project leader as I have good
+            leadership features and Im not intimidated by leading projects.
+        </justified>
+
+    </row>
+    <row>
+        <largetitle>Android development</largetitle>
+    </row>
+    <row>
+        <justified>I started Android development approximately 3 years ago, when I built my first
+            application called "alkomeeter". It was a application that took an input of human
+            parameters and the quantities of alcohol consumed. It was surprisingly popular, it had
+            over 5000 downloads on google play, but due to it's poor quality and poor reviews I
+            removed it from the play store.
+        </justified>
+    </row>
+    <row>
+        <largetitle>Motivation</largetitle>
+    </row>
+    <row>
+        <justified>My main motivation of applying to work with you
+            is the fact that I want to challenge myself outside the academic environment.
+            I’m eager to write Android projects that will really be used and not be deleted with the
+            next formation of my hard drive. I know that I'm far from being an expert in Android
+            development, but I am enthusastic and have the capabilities to learn fast. I believe
+            that I have the necessary base knowledge of programming and software development to be a
+            valuable member in your team.
+        </justified>
+    </row>
+
+</data>
