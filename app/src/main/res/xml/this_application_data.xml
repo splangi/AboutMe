@@ -5,9 +5,8 @@
     </row>
     <row>
         <justified>The purpose of this application is to create a introduction package of me in the
-            context of Android.
-            This application includes my CV, introduction of me as a developer,
-            a page about my hobby and some details of android apps I have created.
+            context of Android. This application includes my CV, introduction of me as a developer,
+            a page about my hobby and some details of Android apps I have created.
         </justified>
     </row>
     <row>
@@ -17,7 +16,7 @@
     </row>
     <row>
         <justified>The application provides navigation between different pages using the application
-            drawer on the right.
+            drawer on the left.
         </justified>
     </row>
     <row>
@@ -28,13 +27,12 @@
     <row>
         <justified>All the data is dynamically loaded from custom XML data files during runtime. The
             XML includes row tags and inside it there are various other tags (aka title, largetext).
-            All data within different tags are handled differently in appropriate views with
-            different properties.
+            All data within different tags are inserted into appropriate predefined views.
         </justified>
     </row>
     <row>
         <justified>This application would have been much more effective and had many more options
-            using webviews and HTML/CSS, but the aim was to create a pure android implementation
+            using webviews and HTML/CSS, but the aim was to create a pure Android implementation
             introduction package.
         </justified>
     </row>
@@ -46,8 +44,7 @@
     <row>
         <justified>As the application uses XML files which are stored in the resource folder,
             application translation is easy.
-            All is necessary to do is translate the text within the xml text file and the
-            appropriate file is loaded by android.
+            All that's necessary to do is to translate the text within the xml file and Android handles the correct xml file loading.
             For that purpose the CV page has also been translated to Estonian, which will be
             displayed on devices with Estonian language as the system language.
         </justified>

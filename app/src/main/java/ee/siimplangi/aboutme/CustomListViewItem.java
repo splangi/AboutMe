@@ -1,6 +1,7 @@
 package ee.siimplangi.aboutme;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.text.Html;
@@ -60,6 +61,7 @@ public class CustomListViewItem extends LinearLayout {
 
     private TextView createTitleTextView(String text){
         TextView view = createSubTitleTextView(text);
+        view.setTextColor(Color.parseColor("#3B90AF"));
         view.setTypeface(null, Typeface.BOLD);
         return view;
     }

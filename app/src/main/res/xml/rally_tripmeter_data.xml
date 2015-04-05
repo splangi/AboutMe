@@ -21,12 +21,12 @@
     </row>
     <row>
         <justified>
-            It has currently over 4 thousand total downloads and 2,4 thousand current installs.
+            It has currently over 4 thousand total downloads and 2,4K current installs.
             For a small community of rally (co)drivers this is quite big usage.
-            The rating of the application is over the 4.5 mark. All the feedback I have got is been
-            very positive, there are known users from the top drivers in Estonia (Including Raigo
-            Mölder, the codriver of Ott Tänak) and even users from FIA (The federation of
-            international autosport).
+            The rating of the application is over the 4.5 mark. All the feedback has been
+            very positive, there are known users from the top drivers in Estonia (including Raigo
+            Mölder, the codriver of Ott Tänak) and even users from FIA (the Federation of
+            International Autosport).
         </justified>
 
     </row>
@@ -38,8 +38,8 @@
     </row>
     <row>
         <justified>
-            The application was almost rebuild about six months ago. The functionality changed were
-            small, but the code was refactored totally. The purpose of the rework was, that the
+            The application was almost rebuild about six months ago. The functionality changed was
+            small, but the code was totally refactored. The purpose of the rework was that the
             initial project structure was sloppy and it was hard to maintain.
         </justified>
 

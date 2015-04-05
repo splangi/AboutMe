@@ -25,11 +25,11 @@
     </row>
     <row>
         <subtitle>2014-...</subtitle>
-        <text>University of Tartu - MSC of Informatics</text>
+        <text>University of Tartu - MSc of Informatics</text>
     </row>
     <row>
         <subtitle>2011-2014</subtitle>
-        <text>University of Tartu - BSC of Infotechnology</text>
+        <text>University of Tartu - BSc of Infotechnology</text>
     </row>
     <row>
         <subtitle>2008-2011</subtitle>
@@ -55,14 +55,14 @@
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Helping a furniture production company</text>
+        <text>Helping a furniture production company to develop a production management system</text>
     </row>
     <row>
         <title>Languages</title>
     </row>
     <row>
-        <subtitle>Native</subtitle>
-        <text>Estonian</text>
+        <subtitle></subtitle>
+        <text>Estonian - native</text>
     </row>
     <row>
         <subtitle></subtitle>
@@ -77,11 +77,11 @@
     </row>
     <row>
         <subtitle>Python</subtitle>
-        <text>My first experience with programming. Since the start of BSc</text>
+        <text> 4 years</text>
     </row>
     <row>
         <subtitle>Java</subtitle>
-        <text>My favorite programming language. Since the second semester of BSc</text>
+        <text>My favorite programming language. 3,5 years</text>
     </row>
     <row>
         <subtitle>Android</subtitle>
@@ -89,14 +89,14 @@
     </row>
     <row>
         <subtitle>Web technologies</subtitle>
-        <text>I have used various technologies/tools including, Java Servlets, js, jquery, angular,
-            bootstrap etc
+        <text>I have used various technologies/tools including, Java Servlets, JS, jQuery, AngularJS,
+            Bootstrap etc
         </text>
     </row>
     <row>
         <subtitle>Databases</subtitle>
         <text>I have mostly used MySql for my development, but I have also some experience with
-            oracle and hibernate
+            Oracle and Hibernate
         </text>
     </row>
     <row>
