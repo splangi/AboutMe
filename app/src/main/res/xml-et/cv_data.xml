@@ -13,7 +13,7 @@
         <text>Tartu, Raatuse 18</text>
     </row>
     <row>
-        <title>Telefoni nr</title>
+        <title>Tel nr</title>
         <text>+3725266127</text>
     </row>
     <row>
@@ -25,14 +25,14 @@
     </row>
     <row>
         <subtitle>2014-...</subtitle>
-        <text>Tartu Ülikool - Informaatika magistratuur</text>
+        <text>Tartu Ülikool - Informaatika MSc</text>
     </row>
     <row>
-        <subtitle>2011-2014</subtitle>
-        <text>Tartu Ülikool - Infotehnoloogia bakalaureus</text>
+        <subtitle>2011-14</subtitle>
+        <text>Tartu Ülikool - Infotehnoloogia BSc</text>
     </row>
     <row>
-        <subtitle>2008-2011</subtitle>
+        <subtitle>2008-11</subtitle>
         <text>Võru Kreutzwaldi Gümnaasium</text>
     </row>
     <row>
@@ -51,18 +51,18 @@
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Gourmet - Restorani menüüde translaator</text>
+        <text>Gourmet - Restorani menüüde tõlkija</text>
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Aitan mööbilitootmis firma tarkvaraarendust</text>
+        <text>Aitan mööblilit tootvale ettevõttele luua tootmishaldus tarkvara</text>
     </row>
     <row>
         <title>Keeleoskus</title>
     </row>
     <row>
-        <subtitle>emakeel</subtitle>
-        <text>Eesti</text>
+        <subtitle></subtitle>
+        <text>Eesti - emakeel</text>
     </row>
     <row>
         <subtitle></subtitle>
@@ -77,11 +77,11 @@
     </row>
     <row>
         <subtitle>Java</subtitle>
-        <text>Lemmik programmeerimiskeel. Alates teisest semestrist bakalaureuseõppes</text>
+        <text>Lemmik programmeerimiskeel. 3,5 aastat</text>
     </row>
     <row>
         <subtitle>Python</subtitle>
-        <text>Esimene kokkupuude programmeerimisega. Bakalaureuseõppe algusest</text>
+        <text>Esimene kokkupuude programmeerimisega. 4 aastat</text>
     </row>
 
     <row>
@@ -90,26 +90,26 @@
     </row>
     <row>
         <subtitle>Veeb</subtitle>
-        <text>Olen kasutanud mitmed tehnoloogiaid, Java Servlets, js, jquery, angular, bootstrap jm</text>
+        <text>Olen kasutanud mitmed veebitehnoloogiaid, Java Servlets, JS, jQuery, AngularJS, Bootstrap jm.</text>
     </row>
     <row>
         <subtitle>SQL</subtitle>
-        <text>Enamuseks arenduseks kasutanud MySQL-i. Olen kasutanud ka hql-i. </text>
+        <text>Enamuseks arenduseks kasutanud MySQL-i. Kasutanud ka HQL-i. </text>
     </row>
     <row>
         <title>Täiendav info</title>
     </row>
     <row>
         <subtitle>2015</subtitle>
-        <text>Liider Eesti ralli meistrivõistlustel (Overall, Group N4)</text>
+        <text>Liider Eesti autoralli meistrivõistlustel (Üldarvestus ja klass N4)</text>
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Liider Läti ralli meistrivõistlustel (Overall, Class N4)</text>
+        <text>Liider Läti autoralli meistrivõistlustel (Üldarvestus ja klass N4)</text>
     </row>
     <row>
         <subtitle></subtitle>
-        <text>Euroopa ralli meistrivõistluste Rally Liepaja klassivõitja (2. ülearvestuses)</text>
+        <text>Euroopa autoralli meistrivõistluste Rally Liepaja klassivõitja (II üldarvestuses)</text>
     </row>
     <row>
         <title>Harrastused</title>
